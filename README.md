@@ -8,8 +8,8 @@ This web app helps manage large volumes of petitions by classifying them using N
 It reduces manual work, improves response time, and helps government departments act faster.
 
 🛠 Tech Stack
-Layer	Technology Used
-Frontend	React.js, Tailwind CSS
-Backend	Express.js, Node.js
-Database	PostgreSQL + Prisma ORM
-Machine Learning	Python (NLP & Text Classification)
+
+Frontend: React.js, Tailwind CSS
+Backend: Express.js, Node.js
+Database: PostgreSQL with Prisma ORM
+Machine Learning: Python (NLP & Text Classification)
