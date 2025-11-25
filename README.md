@@ -10,6 +10,9 @@ It reduces manual work, improves response time, and helps government departments
 🛠 Tech Stack
 
 Frontend: React.js, Tailwind CSS
+
 Backend: Express.js, Node.js
+
 Database: PostgreSQL with Prisma ORM
+
 Machine Learning: Python (NLP & Text Classification)
